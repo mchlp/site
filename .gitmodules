@@ -1,0 +1,3 @@
+[submodule "BusPredictionsWebpage"]
+	path = BusPredictionsWebpage
+	url = https://github.com/mchlp/BusPredictionsWebpage.git

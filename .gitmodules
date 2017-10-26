@@ -1,0 +1,3 @@
+[submodule "sites/Drawnter"]
+	path = sites/Drawnter
+	url = https://github.com/mchlp/Drawnter.git
